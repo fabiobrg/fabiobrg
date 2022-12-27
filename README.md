@@ -1,4 +1,6 @@
-### Olá 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello+welcom+my+profile;Student+of+programming+and+Database.)](https://git.io/typing-svg)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=fabiobrg&theme=calm&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
 
 <!--
